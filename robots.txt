@@ -1,3 +1,5 @@
 # robotstxt.org/
 making change in Github level.
 User-agent: *
+
+#adding files to robots.
